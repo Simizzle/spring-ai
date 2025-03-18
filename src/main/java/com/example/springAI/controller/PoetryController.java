@@ -1,6 +1,6 @@
-package com.example.springAI;
+package com.example.springAI.controller;
 
-import com.example.springAI.service.PoetryDto;
+import com.example.springAI.model.dtos.PoetryDto;
 import com.example.springAI.service.PoetryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

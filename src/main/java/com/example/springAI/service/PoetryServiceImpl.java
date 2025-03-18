@@ -1,5 +1,6 @@
 package com.example.springAI.service;
 
+import com.example.springAI.model.dtos.PoetryDto;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.prompt.Prompt;
 import org.springframework.ai.chat.prompt.PromptTemplate;

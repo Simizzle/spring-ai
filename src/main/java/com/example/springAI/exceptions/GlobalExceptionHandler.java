@@ -1,4 +1,4 @@
-package com.example.springAI;
+package com.example.springAI.exceptions;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
